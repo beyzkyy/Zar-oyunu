@@ -1,0 +1,9 @@
+Bir kaç deneme sonucu ortalama kazanma oranları %25 oluyor.
+Zaten her şey zarın kaç çıktığına bağlı olduğu için yaklaşık olması bekleniyordu.
+
+HoldAt20DiePlayer = %24.6
+HoldAt25DiePlayer = %25.5
+RaceToGoalDiePlayer = %24.8
+MyDiePlayer = %24.9
+
+MyDiePlayer son düzlükte bir atağa sahip olan onun dışında 30'a kadar devam eden bir strateji şans oyununda 30'u bulması zor olduğu için biraz riskli bir stratejidir.
